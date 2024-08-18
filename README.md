@@ -1,4 +1,4 @@
-# Echoes-of-Emotion---sentiment-analysis-project
+# EmotionEvaluator---sentiment-analysis-project
 This is a project description for "Echoes of Emotion", a sentiment analysis project that focuses on Amazon food reviews. Here's a breakdown of the key points:
 
 *Project Goal:* Analyze the sentiment of Amazon food reviews using various techniques.
