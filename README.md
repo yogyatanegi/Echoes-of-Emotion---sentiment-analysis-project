@@ -6,8 +6,6 @@ This is a project description for "Echoes of Emotion", a sentiment analysis proj
 *Techniques Used:*
 
 1. VADER (rule-based sentiment analysis)
-2. Fine-tuned pretrained RoBERTa model (context-aware sentiment scoring)
-
 *Key Features:*
 
 1. Process large dataset of Amazon food reviews
@@ -15,7 +13,7 @@ This is a project description for "Echoes of Emotion", a sentiment analysis proj
     - Word tokenization
     - Part of speech tagging
     - Named entity recognition
-3. Compare performance of VADER and RoBERTa models in sentiment classification
+3. Compare performance of VADER  in sentiment classification
 
 *Implementation Details:*
 
@@ -23,7 +21,6 @@ This is a project description for "Echoes of Emotion", a sentiment analysis proj
 2. Libraries used:
     - NLTK
     - Scikit-learn
-    - Hugging Face's Transformers
 
 *Setup Instructions:*
 
